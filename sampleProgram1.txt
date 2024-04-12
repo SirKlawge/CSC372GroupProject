@@ -1,0 +1,6 @@
+x is 5
+y is 6
+z is 7
+x is 8
+a is x + 2
+str1 is "khang is lord"
