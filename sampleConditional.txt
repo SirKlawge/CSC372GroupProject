@@ -1,2 +1,5 @@
 if(x equals 2)
-    out()
+    y is "hello"
+or(x equals 5)
+	y is "world"
+default:
